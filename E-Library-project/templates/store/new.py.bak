@@ -1,0 +1,3 @@
+def sqsum2(nums):
+  ruturn sum(x^2 for x in nums if x > 0)
+ 

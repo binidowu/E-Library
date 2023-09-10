@@ -84,7 +84,3 @@ Please kindly follow the link below to see how to install Python if it's not ins
 
      - Command for PC: `python manage.py createsuperuser`
      - Command for Mac: `python3 manage.py createsuperuser`
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
